@@ -10,6 +10,8 @@ In the project directory, you can run:
 
 ### `pip install -r requirements.txt`
 
+### `python server.py`
+
 ### `npm install`
 
 ### `npm start`
